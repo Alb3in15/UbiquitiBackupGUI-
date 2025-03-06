@@ -25,10 +25,10 @@
 
 ### 1️⃣ Clonar el Repositorio  
 ~~~
-git clone [https://github.com/tuusuario/UbiBackup.git](https://github.com/Alb3in15/UbiquitiBackupGUI.git)
+git clone [https://github.com/tuusuario/UbiBackup.git](https://github.com/Alb3in15/UbiquitiBackupGUI-.git)
 ~~~
 ~~~
-cd UbiquitiBackupGUI
+cd UbiquitiBackupGUI-
 ~~~
 
 ### 2️⃣ Instalar Dependencias
