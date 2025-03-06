@@ -16,6 +16,9 @@
 ![image](https://github.com/user-attachments/assets/498a7cf5-3793-48c1-b30c-ada6cfb229f5)
 
 
+📌 *Ejemplo de la tabla creada en excel con los datos delas antenas.*  
+![image](https://github.com/user-attachments/assets/0b3e6a0f-ad69-4a0f-a6ed-9e46321d6ad0)
+
 📌 *Ejemplo de la interfaz con la tabla cargada y los botones de respaldo.*  
 ![image](https://github.com/user-attachments/assets/7cd092ab-100c-4dbf-94ed-3c59fc65c241)
 
