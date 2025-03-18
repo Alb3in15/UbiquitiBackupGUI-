@@ -1,6 +1,6 @@
 # 🚀 UbiBackup - Herramienta de Respaldo para Ubiquiti
 
-**UbiBackup** es una aplicación en Python con interfaz gráfica (Tkinter) que permite cargar archivos de Excel con datos de dispositivos Ubiquiti y realizar respaldos masivos de configuración vía SSH.  
+**UbiBackup** es una aplicación en Python con interfaz gráfica (Tkinter) que permite cargar archivos de Excel con datos de antenas Ubiquiti y realizar respaldos masivos de configuración vía SSH.  
 
 ## 🛠️ Funcionalidades
 
